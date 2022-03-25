@@ -1290,13 +1290,13 @@ a[data-action] {
     cursor: pointer
 }
 
-a:visited {
+/* a:visited {
     color: inherit
 }
 
 a:link {
     color: inherit
-}
+} */
 
 [data-opacity="0"] {
     opacity: 0
@@ -1569,7 +1569,7 @@ body {
         background-size: cover;
         background-attachment: scroll;
         background-origin: content-box;
-        background-image: url("./bg1-20201126103115.jpg");
+        background-image: url("./bg-section-1.jpg");
         background-position: center top;
         background-repeat: repeat;
     }
@@ -1893,7 +1893,7 @@ body {
         height: 281.666px;
         top: -11.9996px;
         left: -81.4873px;
-        background-image: url("./sp1-20201126105916.png");
+        background-image: url("./sp-drcore-s2.png");
     }
 
     #IMAGE26 {
@@ -2329,7 +2329,7 @@ body {
         height: 158.636px;
         top: 0px;
         left: 0px;
-        background-image: url("./product-box-20201127015248.png");
+        background-image: url("./product-box-20201127015248n.png");
     }
 
     #LIST_PARAGRAPH58 {
@@ -2518,7 +2518,7 @@ body {
         height: 347.397px;
         top: 0px;
         left: 0px;
-        background-image: url("./feedback6-20201127022009.png");
+        background-image: url("./feedback-1.jpg");
     }
 
     #IMAGE74.ladi-animation > .ladi-image {
@@ -2544,7 +2544,7 @@ body {
         height: 347.397px;
         top: 0px;
         left: 0px;
-        background-image: url("./feedback4-20201127022009.jpg");
+        background-image: url("./feedback-5.jpg");
     }
 
     #IMAGE75.ladi-animation > .ladi-image {
@@ -2570,7 +2570,7 @@ body {
         height: 347.397px;
         top: 0px;
         left: 0px;
-        background-image: url("./feedback5-20201127022009.jpg");
+        background-image: url("./feedback-2.jpg");
     }
 
     #IMAGE78.ladi-animation > .ladi-image {
@@ -2596,7 +2596,7 @@ body {
         height: 347.397px;
         top: 0px;
         left: 0px;
-        background-image: url("./feedback1-20201127022009.jpg");
+        background-image: url("./feedback-4.jpg");
     }
 
     #IMAGE79.ladi-animation > .ladi-image {
@@ -2622,7 +2622,7 @@ body {
         height: 343.75px;
         top: 0px;
         left: 0px;
-        background-image: url("./feedback2-20201127022009.jpg");
+        background-image: url("./feedback-3.jpg");
     }
 
     #IMAGE81.ladi-animation > .ladi-image {
@@ -2648,7 +2648,7 @@ body {
         height: 347.397px;
         top: 0px;
         left: 0px;
-        background-image: url("./feedback3-20201127022009.jpg");
+        background-image: url("./feedback-6.jpg");
     }
 
     #IMAGE82.ladi-animation > .ladi-image {
@@ -2690,7 +2690,7 @@ body {
         height: 122.43px;
         top: 0px;
         left: 0px;
-        background-image: url("./shape-produc-20201127022009.png");
+        background-image: url("./shape-produc-20201127022009n.png");
     }
 
     #HEADLINE87 {
@@ -2732,7 +2732,7 @@ body {
         background-size: cover;
         background-attachment: scroll;
         background-origin: content-box;
-        background-image: url("./bg8-20201127030249.jpg");
+        background-image: url("./bg8-20201127030249n.jpg");
         background-position: center top;
         background-repeat: repeat;
     }
@@ -2820,7 +2820,7 @@ body {
         height: 284.784px;
         top: 0px;
         left: 0px;
-        background-image: url("./duracore-20201127022842.jpg");
+        background-image: url("./duracore-20201127022842n.jpg");
     }
 
     #IMAGE94.ladi-animation > .ladi-image {
@@ -3114,7 +3114,7 @@ body {
         height: 129.202px;
         top: 0px;
         left: 0px;
-        background-image: url("./layer-6-20201127031909.png");
+        background-image: url("./layer-6-20201127031909n.png");
     }
 
     #IMAGE114.ladi-animation > .ladi-image {
@@ -3140,7 +3140,7 @@ body {
         height: 87px;
         top: 0px;
         left: 0px;
-        background-image: url("./bottle-copy-2-20201127031909.png");
+        background-image: url("./bottle-copy-2-20201127031909n.png");
     }
 
     #IMAGE115.ladi-animation > .ladi-image {
@@ -3271,7 +3271,7 @@ body {
         height: 142.885px;
         top: -5.88812px;
         left: 0px;
-        background-image: url("./bottle-copy-3-20201127032823.png");
+        background-image: url("./bottle-copy-3-20201127032823n.png");
     }
 
     #HEADLINE124 {
